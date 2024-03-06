@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_array">
+        <item>Djibouti</item>
+        <item>Georgia</item>
+        <item>Saint Vincent</item>
+        <item>Bahrain</item>
+        <item>Malta</item>
+    </string-array>
+</resources>

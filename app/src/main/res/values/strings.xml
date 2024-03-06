@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="switch_button">Switch</string>
+    <string name="djibouti">Djibouti</string>
+    <string name="georgia">Georgia</string>
+    <string name="saint_vincent">Saint_vincent</string>
+    <string name="bahrain">Bahrain</string>
+    <string name="malta">Malta</string>
+
+    <string name="hymn_djibouti">Arise with strength! For we have raised our flag,\nThe flag which has cost us dear\nWith extremes of thirst and pain.</string>
+    <string name="hymn_georgia">My icon is my motherland,\nAnd the whole world is its icon-stand,\nBright mounts and valleys\nAre shared with God.</string>
+    <string name="hymn_saint_vincent">Saint Vincent, land so beautiful,\nWith joyful hearts we pledge to thee.\nOur loyalty and love and vow to keep you ever free.</string>
+    <string name="hymn_bahrain">Our Bahrain, Our King\nThe symbol of harmony.\nHigh-ranking in its Constitution Thy Charter represents the values Long live thy Kingdom of Bahrain!</string>
+    <string name="hymn_malta">To this sweet land, our mother, to which we owe our name,\nGuard her, Lord God, like always you have guarded,\nRemember her, which you have clothed with light.</string>
 </resources>
